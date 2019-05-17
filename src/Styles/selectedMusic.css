@@ -1,0 +1,10 @@
+.selectedMusic {
+        position: fixed;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        padding: 1rem;
+        background-color: rgba(249, 212, 66, 0.918);
+        text-align: center;
+        justify-content: space-between;
+      }

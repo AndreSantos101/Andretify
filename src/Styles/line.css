@@ -1,0 +1,7 @@
+.selectedMusicLine:hover {
+    background: #0f0101 !important;
+}
+
+.playStopIcon:hover{
+    cursor:  pointer;
+}

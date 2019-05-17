@@ -1,0 +1,10 @@
+.Header {
+  color:#F9D342;
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  border-bottom: 2px solid #F9D342;
+  background:#2a2c2e;
+}
